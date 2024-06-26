@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>The Name Chapter: TEMPTATION</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 </head>
 
@@ -18,11 +18,11 @@
                 <div class="center-text">'Sugar Rush Ride' MV</div>
             </div></h3>
             <h5>
-                <a href="/TXT/lyrics/devilbythewindow.php">Devil by the Window</a><br>
-                <a href="/TXT/lyrics/sugarrushride.php">Sugar Rush Ride</a><br>
-                <a href="/TXT/lyrics/happyfools.php">Happy Fools(feat. Coi Leray)</a><br>
-                <a href="/TXT/lyrics/tinnitus.php">Tinnitus (Wanna be a rock)</a><br>
-                <a href="/TXT/lyrics/farewell,neverland.php">Farewell, Neverland 네버랜드를 떠나며</a><br>
+                <a href="../lyrics/devilbythewindow.php">Devil by the Window</a><br>
+                <a href="../lyrics/sugarrushride.php">Sugar Rush Ride</a><br>
+                <a href="../lyrics/happyfools.php">Happy Fools(feat. Coi Leray)</a><br>
+                <a href="../lyrics/tinnitus.php">Tinnitus (Wanna be a rock)</a><br>
+                <a href="../lyrics/farewell,neverland.php">Farewell, Neverland 네버랜드를 떠나며</a><br>
             </h5>
 </div>
 </body>
