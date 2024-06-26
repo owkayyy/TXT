@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>The Dream Chapter: STAR</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 </head>
 
@@ -277,11 +277,11 @@
         </tbody>
         </table>
         <h5>
-        <a href="/TXT/lyrics/blueorangeade.php">Blue Orangeade</a><br>
-        <a href="/TXT/lyrics/crown.php">CROWN</a><br>
-        <a href="/TXT/lyrics/oursummer.php">Our Summer</a><br>
-        <a href="/TXT/lyrics/cat&dog.php">Cat & Dog</a><br>
-        <a href="/TXT/lyrics/napofastar.php">Nap of a star 별의 낮잠</a><br>
+        <a href="../lyrics/blueorangeade.php">Blue Orangeade</a><br>
+        <a href="../lyrics/crown.php">CROWN</a><br>
+        <a href="../lyrics/oursummer.php">Our Summer</a><br>
+        <a href="../lyrics/cat&dog.php">Cat & Dog</a><br>
+        <a href="../lyrics/napofastar.php">Nap of a star 별의 낮잠</a><br>
 </h5>
 </div>
 </body>

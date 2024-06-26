@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>The Dream Chapter: MAGIC</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 
 </head>
@@ -221,14 +221,14 @@
         </tbody>
         </table>
         <h5>
-                <a href="/TXT/lyrics/newrules.php">New Rules</a><br>
-                <a href="/TXT/lyrics/runaway.php">9 and 3 Quarters (Run Away)</a><br>
-                <a href="/TXT/lyrics/rollercoaster.php">Roller Coaster</a><br>
-                <a href="/TXT/lyrics/poppinstar.php">Poppin' Star</a><br>
-                <a href="/TXT/lyrics/cantwejustleavethemonsteralive.php">그냥 괴물을 살려두면 안 되는 걸까 (Can't We Just Leave The Monster Alive?)</a><br>
-                <a href="/TXT/lyrics/magicisland.php">Magic Island</a><br>
-                <a href="/TXT/lyrics/20cm.php">20cm</a><br>
-                <a href="/TXT/lyrics/angelordevil.php">Angel Or Devil</a>
+                <a href="../lyrics/newrules.php">New Rules</a><br>
+                <a href="../lyrics/runaway.php">9 and 3 Quarters (Run Away)</a><br>
+                <a href="../lyrics/rollercoaster.php">Roller Coaster</a><br>
+                <a href="../lyrics/poppinstar.php">Poppin' Star</a><br>
+                <a href="../lyrics/cantwejustleavethemonsteralive.php">그냥 괴물을 살려두면 안 되는 걸까 (Can't We Just Leave The Monster Alive?)</a><br>
+                <a href="../lyrics/magicisland.php">Magic Island</a><br>
+                <a href="../lyrics/20cm.php">20cm</a><br>
+                <a href="../lyrics/angelordevil.php">Angel Or Devil</a>
             </h5>  
 </div>
 

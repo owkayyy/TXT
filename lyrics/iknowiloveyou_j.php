@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>Chaotic Wonderland</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 
 </head>
@@ -300,10 +300,10 @@
         </table>
     </h2>
     <h5>
-    <a href="/TXT/lyrics/iknowiloveyou_j.php">0X1=LOVESONG (I Know I Love You) - Japanese Ver</a><br>
-    <a href="/TXT/lyrics/ito.php">Ito</a><br>
-    <a href="/TXT/lyrics/moadiary_j.php">Moa Diary (Dubaddu Wari Wari) - Japanese Ver</a><br>
-    <a href="/TXT/lyrics/magic2.php">Magic</a><br>
+    <a href="../lyrics/iknowiloveyou_j.php">0X1=LOVESONG (I Know I Love You) - Japanese Ver</a><br>
+    <a href="../lyrics/ito.php">Ito</a><br>
+    <a href="../lyrics/moadiary_j.php">Moa Diary (Dubaddu Wari Wari) - Japanese Ver</a><br>
+    <a href="../lyrics/magic2.php">Magic</a><br>
     </h5>
 </body>
 </html>

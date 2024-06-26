@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>Single</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 
 </head>
@@ -67,19 +67,19 @@
         </table>
     </h2>
     <h5>
-    <a href="/TXT/single/single1.php">Cat & Dog (English Version)</a><br>
-    <a href="/TXT/single/single2.php">Our Summer (Acoustic Mix)</a><br>
-    <a href="/TXT/single/single3.php">Your Light (From The Original TV Show "Live On")</a><br>
-    <a href="/TXT/single/single4.php">Love Sight (Doom at Your Service OST Pt.2)</a><br>
-    <a href="/TXT/single/single5.php">0X1=LOVESONG (I Know I Love You) feat.pH-1, Woodie Gochild, Seori</a><br>
-    <a href="/TXT/single/single6.php">0X1=LOVESONG (I Know I Love You) feat.MOD SUN</a><br>
-    <a href="/TXT/single/single7.php">Ito</a><br>
-    <a href="/TXT/single/single8.php">EYES 감은 눈을 떠봐 (from "Armored Saurus")</a><br>
-    <a href="/TXT/single/single9.php">PS5 (with TOMORROW X TOGETHER & Alan Walker)</a><br>
-    <a href="/TXT/single/single10.php">Valley of Lies</a><br>
-    <a href="/TXT/single/single11.php">君じゃない誰かの愛し方 (Ring)</a><br>
-    <a href="/TXT/single/single12.php">Free Falling</a><br>
-    <a href="/TXT/single/single13.php">Goodbye Now 이젠 안녕 (Love Revolution X TOMORROW X TOGETHER) [Original Webtoon Soundtrack]</a><br>
+    <a href="../single/single1.php">Cat & Dog (English Version)</a><br>
+    <a href="../single/single2.php">Our Summer (Acoustic Mix)</a><br>
+    <a href="../single/single3.php">Your Light (From The Original TV Show "Live On")</a><br>
+    <a href="../single/single4.php">Love Sight (Doom at Your Service OST Pt.2)</a><br>
+    <a href="../single/single5.php">0X1=LOVESONG (I Know I Love You) feat.pH-1, Woodie Gochild, Seori</a><br>
+    <a href="../single/single6.php">0X1=LOVESONG (I Know I Love You) feat.MOD SUN</a><br>
+    <a href="../single/single7.php">Ito</a><br>
+    <a href="../single/single8.php">EYES 감은 눈을 떠봐 (from "Armored Saurus")</a><br>
+    <a href="../single/single9.php">PS5 (with TOMORROW X TOGETHER & Alan Walker)</a><br>
+    <a href="../single/single10.php">Valley of Lies</a><br>
+    <a href="../single/single11.php">君じゃない誰かの愛し方 (Ring)</a><br>
+    <a href="../single/single12.php">Free Falling</a><br>
+    <a href="../single/single13.php">Goodbye Now 이젠 안녕 (Love Revolution X TOMORROW X TOGETHER) [Original Webtoon Soundtrack]</a><br>
     </h5>
 </body>
 </html>

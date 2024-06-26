@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>minisode1: BLUE HOUR</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 
 </head>
@@ -233,11 +233,11 @@
         </tbody>
         </table>
         <h5>
-                <a href="/TXT/lyrics/ghosting.php">Ghosting</a><br>
-                <a href="/TXT/lyrics/bluehour.php">Blue Hour 5시 53분의 하늘에서 발견한 너와 나</a><br>
-                <a href="/TXT/lyrics/welostthesummer.php">We Lost The Summer 날씨를 잃어버렸어</a><br>
-                <a href="/TXT/lyrics/wishlist.php">Wishlist</a><br>
-                <a href="/TXT/lyrics/wayhome.php">Way Home 하굣길</a><br>
+                <a href="../lyrics/ghosting.php">Ghosting</a><br>
+                <a href="../lyrics/bluehour.php">Blue Hour 5시 53분의 하늘에서 발견한 너와 나</a><br>
+                <a href="../lyrics/welostthesummer.php">We Lost The Summer 날씨를 잃어버렸어</a><br>
+                <a href="../lyrics/wishlist.php">Wishlist</a><br>
+                <a href="../lyrics/wayhome.php">Way Home 하굣길</a><br>
             </h5>
 </div>
 </body>

@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>The Chaos Chapter: Freeze</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 
 </head>
@@ -102,14 +102,14 @@
         </table>
     </h2>
     <h5>
-    <a href="/TXT/lyrics/antiromantic.php">Anti-Romantic</a><br>
-    <a href="/TXT/lyrics/iknowiloveyou.php">0X1=LOVESONG (I Know I Love You) feat. Seori</a><br>
-    <a href="/TXT/lyrics/magic.php">Magic</a><br>
-    <a href="/TXT/lyrics/icecream.php">Ice Cream 소악행</a><br>
-    <a href="/TXT/lyrics/whatifihadbeenthatpuma.php">What If I had Been That Puma 밸런스 게임</a><br>
-    <a href="/TXT/lyrics/norules.php">No Rules</a><br>
-    <a href="/TXT/lyrics/dearsputnik.php">Dear Sputnik 디어 스푸트니크</a><br>
-    <a href="/TXT/lyrics/frost.php">Frost</a><br>
+    <a href="../lyrics/antiromantic.php">Anti-Romantic</a><br>
+    <a href="../lyrics/iknowiloveyou.php">0X1=LOVESONG (I Know I Love You) feat. Seori</a><br>
+    <a href="../lyrics/magic.php">Magic</a><br>
+    <a href="../lyrics/icecream.php">Ice Cream 소악행</a><br>
+    <a href="../lyrics/whatifihadbeenthatpuma.php">What If I had Been That Puma 밸런스 게임</a><br>
+    <a href="../lyrics/norules.php">No Rules</a><br>
+    <a href="../lyrics/dearsputnik.php">Dear Sputnik 디어 스푸트니크</a><br>
+    <a href="../lyrics/frost.php">Frost</a><br>
     </h5>
 </body>
 </html>

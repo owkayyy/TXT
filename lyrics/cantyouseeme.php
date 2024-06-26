@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>The Dream Chapter: ETERNITY</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 </head>
 
@@ -226,12 +226,12 @@
         </tbody>
         </table>
     <h5>
-    <a href="/TXT/lyrics/drama.php">Drama</a><br>
-    <a href="/TXT/lyrics/cantyouseeme.php">Can't You See Me? 세계가 불타버린 밤, 우린…</a><br>
-    <a href="/TXT/lyrics/fairyofshampoo.php">Fairy of Shampoo 샴푸의 요정</a><br>
-    <a href="/TXT/lyrics/mazeinthemirror.php">Maze in the Mirror 거울 속의 미로</a><br>
-    <a href="/TXT/lyrics/puma.php">PUMA 동물원을 빠져나온 퓨마</a><br>
-    <a href="/TXT/lyrics/eternally.php">Eternally</a><br>
+    <a href="../lyrics/drama.php">Drama</a><br>
+    <a href="../lyrics/cantyouseeme.php">Can't You See Me? 세계가 불타버린 밤, 우린…</a><br>
+    <a href="../lyrics/fairyofshampoo.php">Fairy of Shampoo 샴푸의 요정</a><br>
+    <a href="../lyrics/mazeinthemirror.php">Maze in the Mirror 거울 속의 미로</a><br>
+    <a href="../lyrics/puma.php">PUMA 동물원을 빠져나온 퓨마</a><br>
+    <a href="../lyrics/eternally.php">Eternally</a><br>
     </h5>
 </body>
 </html>

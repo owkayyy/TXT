@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>The Chaos Chapter: Freeze</title>
-        <link rel="stylesheet" href="/TXT/styles/navigation.css">
-        <link rel="stylesheet" href="/TXT/styles/song.css">
+        <link rel="stylesheet" href="../styles/navigation.css">
+        <link rel="stylesheet" href="../styles/song.css">
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 
 </head>
@@ -102,16 +102,16 @@
         </table>
     </h2>
     <h5>
-    <a href="/TXT/lyrics/antiromantic.php">Anti-Romantic</a><br>
-    <a href="/TXT/lyrics/iknowiloveyou1.php">0X1=LOVESONG (I Know I Love You) feat. Seori</a><br>
-    <a href="/TXT/lyrics/magic1.php">Magic</a><br>
-    <a href="/TXT/lyrics/icecream1.php">Ice Cream 소악행</a><br>
-    <a href="/TXT/lyrics/whatifihadbeenthatpuma1.php">What If I had Been That Puma</a><br>
-    <a href="/TXT/lyrics/norules1.php">No Rules</a><br>
-    <a href="/TXT/lyrics/moadiary.php">Moa Diary (Dubaddu Wari Wari) 교환일기 (두밧두 와리와리)</a><br>
-    <a href="/TXT/lyrics/dearsputnik1.php">Dear Sputnik</a><br>
-    <a href="/TXT/lyrics/frost1.php">Frost</a><br>
-    <a href="/TXT/lyrics/iknowiloveyouemocore.php">0X1=LOVESONG (I Know I Love You) feat. Seori (Emocore Mix)</a><br>
+    <a href="../lyrics/antiromantic.php">Anti-Romantic</a><br>
+    <a href="../lyrics/iknowiloveyou1.php">0X1=LOVESONG (I Know I Love You) feat. Seori</a><br>
+    <a href="../lyrics/magic1.php">Magic</a><br>
+    <a href="../lyrics/icecream1.php">Ice Cream 소악행</a><br>
+    <a href="../lyrics/whatifihadbeenthatpuma1.php">What If I had Been That Puma</a><br>
+    <a href="../lyrics/norules1.php">No Rules</a><br>
+    <a href="../lyrics/moadiary.php">Moa Diary (Dubaddu Wari Wari) 교환일기 (두밧두 와리와리)</a><br>
+    <a href="../lyrics/dearsputnik1.php">Dear Sputnik</a><br>
+    <a href="../lyrics/frost1.php">Frost</a><br>
+    <a href="../lyrics/iknowiloveyouemocore.php">0X1=LOVESONG (I Know I Love You) feat. Seori (Emocore Mix)</a><br>
     </h5>
 </body>
 </html>

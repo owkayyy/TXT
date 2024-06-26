@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <head>
     <title>Tomorrow X Together</title>
-    <link rel="stylesheet" href="/TXT/styles/navigation.css">
-    <link rel="stylesheet" href="/TXT/styles/song.css">
-    <link rel="stylesheet" href="/TXT/styles/button.css" >
+    <link rel="stylesheet" href="../styles/navigation.css">
+    <link rel="stylesheet" href="../styles/song.css">
+    <link rel="stylesheet" href="../styles/button.css" >
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 </head>
 
@@ -17,7 +17,7 @@
             <tbody>
                 <tr>
                     <td>
-                        <img src="/TXT/images/hueningkai2.jpeg" width="300" height="440" >
+                        <img src="../images/hueningkai2.jpeg" width="300" height="440" >
                     </td>
                     <td>
                     <h2>Huening Kai</h2>
@@ -37,17 +37,17 @@
                     Spotify Playlist:</span> <a href="https://open.spotify.com/playlist/4TWm1t0kxGDL8ClErXWZh7?si=E3h0nBuLQ8ibMqYW2rDLFg" target="_blank" rel="nofollow">TXT HUENING KAI</a>
                     </td>
                     <td>
-                        <img src="/TXT/images/hueningkai3.jpg" width="300" height="440" >
+                        <img src="../images/hueningkai3.jpg" width="300" height="440" >
                     </td>
                 </tr>
             </tbody>
         </table>
         <div class="container">
-            <a href="/TXT/profile/yeonjun.php"><span>Yeonjun</span></a>
-            <a href="/TXT/profile/taehyun.php"><span>Taehyun</span></a>
-            <a href="/TXT/profile/beomgyu.php"><span>Beomgyu</span></a>
-            <a href="/TXT/profile/hueningkai.php"><span>Huening Kai</span></a>
-            <a href="/TXT/profile/soobin.php"><span>Soobin</span></a>
+            <a href="../profile/yeonjun.php"><span>Yeonjun</span></a>
+            <a href="../profile/taehyun.php"><span>Taehyun</span></a>
+            <a href="../profile/beomgyu.php"><span>Beomgyu</span></a>
+            <a href="../profile/hueningkai.php"><span>Huening Kai</span></a>
+            <a href="../profile/soobin.php"><span>Soobin</span></a>
         </div>
 </div>
 </body>
